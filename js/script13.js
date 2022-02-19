@@ -1,0 +1,1 @@
+document.querySelector(".main-heading").innerHTML = prompt("Введите текст");
